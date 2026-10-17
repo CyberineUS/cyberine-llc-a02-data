@@ -1,7 +1,25 @@
 # Apps the declarations file covers, one package name per line.
-# Start: apps seen on the test phone with traffic or sensitive access.
-com.whatsapp
+ch.protonmail.android
+co.windyapp.android
+com.amazon.mShop.android.shopping
+com.android.chrome
+com.facebook.katana
 com.facebook.orca
+com.google.android.apps.bard
+com.google.android.apps.maps
+com.google.android.apps.photos
+com.google.android.gm
+com.google.android.youtube
+com.instagram.android
+com.linkedin.android
 com.microsoft.office.outlook
+com.microsoft.teams
+com.netflix.mediaclient
+com.paypal.android.p2pmobile
+com.sirius
+com.spotify.music
+com.ubercab
 com.waze
-com.google.android.gms
+com.whatsapp
+com.zhiliaoapp.musically
+us.zoom.videomeetings

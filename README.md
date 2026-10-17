@@ -29,7 +29,8 @@ their privacy policies are. The app compares each installed app's permissions wi
 | `tools/sign.py`, `tools/verify.py` | Sign and verify the file |
 | `tools/make_key.py` | Makes a new key pair. Run once, on the signing machine, by the key holder |
 | `sources/packages.txt` | The apps the file covers, one package name per line |
-| `sources/overrides.json` | Declarations entered by hand from the store page, used until an automatic source is settled |
+| `sources/overrides.json` | Declarations read from each app's store page, one page at a time in a browser, until an automatic source is settled |
+| `tools/read_datasafety_page.js` | Pasted into the browser on a Data safety page, returns that app's entry as JSON |
 
 ## Format of `declarations.json`
 
@@ -79,8 +80,9 @@ The app fetches the raw files from the `main` branch.
 
 ## Open
 
-- **Source for the declarations.** Reading Data safety sections from Play Store pages automatically
+- **Source for the declarations.** Reading Data safety sections from Play Store pages with a crawler
   is against Google's terms of service. Until that is settled with counsel, or a licensed dataset
-  is used, entries are typed by hand into `sources/overrides.json` from the store page.
+  is used, entries come from a person's browser, one page at a time, with
+  `tools/read_datasafety_page.js` turning the page into the JSON entry.
 - **Key holder.** Who holds the private key and where it is kept.
 - **Licence for this data.**

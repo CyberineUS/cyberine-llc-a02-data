@@ -5,28 +5,596 @@
     "policyUrl": "https://www.whatsapp.com/legal/privacy-policy",
     "readAt": "2026-10-17",
     "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
     "declared": {
       "collected": [
+        "Contacts",
         "Location",
+        "Device or other IDs",
+        "App activity",
         "Personal info",
-        "Financial info",
-        "Messages",
+        "App info and performance",
+        "Financial info"
+      ],
+      "shared": []
+    }
+  },
+  "com.facebook.orca": {
+    "name": "Messenger",
+    "developer": "Meta Platforms, Inc.",
+    "policyUrl": "https://m.facebook.com/policy.php",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
         "Photos and videos",
+        "Calendar",
+        "Web browsing",
         "Audio",
         "Files and docs",
-        "Contacts",
-        "App activity",
         "App info and performance",
+        "Health and fitness",
+        "Financial info",
+        "Messages",
+        "Location",
+        "Device or other IDs",
+        "Personal info",
+        "Contacts"
+      ],
+      "shared": [
+        "Device or other IDs",
+        "Personal info"
+      ]
+    }
+  },
+  "com.microsoft.office.outlook": {
+    "name": "Microsoft Outlook",
+    "developer": "Microsoft Corporation",
+    "policyUrl": "https://www.microsoft.com/en-us/privacy/privacystatement",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
+        "Files and docs",
+        "Photos and videos",
+        "Messages",
+        "Calendar",
+        "Personal info",
+        "Contacts",
+        "App info and performance",
+        "Device or other IDs",
+        "Audio"
+      ],
+      "shared": [
+        "Device or other IDs"
+      ]
+    }
+  },
+  "com.waze": {
+    "name": "Waze Navigation & Live Traffic",
+    "developer": "Waze",
+    "policyUrl": "http://www.waze.com/legal/privacy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Photos and videos",
+        "Messages",
+        "Calendar",
+        "App info and performance",
+        "App activity",
+        "Audio",
+        "Personal info",
+        "Location"
+      ],
+      "shared": [
+        "Device or other IDs"
+      ]
+    }
+  },
+  "com.facebook.katana": {
+    "name": "Facebook",
+    "developer": "Meta Platforms, Inc.",
+    "policyUrl": "https://www.facebook.com/about/privacy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
+        "Messages",
+        "Health and fitness",
+        "App info and performance",
+        "Web browsing",
+        "Files and docs",
+        "Audio",
+        "Contacts",
+        "Location",
+        "Photos and videos",
+        "Device or other IDs",
+        "Calendar",
+        "Financial info",
+        "Personal info"
+      ],
+      "shared": [
+        "Device or other IDs",
+        "Personal info"
+      ]
+    }
+  },
+  "com.spotify.music": {
+    "name": "Spotify: Music and Podcasts",
+    "developer": "Spotify AB",
+    "policyUrl": "https://www.spotify.com/legal/privacy-policy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "App activity",
+        "Photos and videos",
+        "Financial info",
+        "Location",
+        "Personal info",
+        "Audio",
+        "Contacts",
         "Device or other IDs"
       ],
       "shared": [
+        "Location",
         "Personal info",
+        "Device or other IDs"
+      ]
+    }
+  },
+  "com.linkedin.android": {
+    "name": "LinkedIn: Community & Network",
+    "developer": "LinkedIn",
+    "policyUrl": "https://www.linkedin.com/legal/privacy-policy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
         "Financial info",
+        "App activity",
+        "Personal info",
+        "Location",
+        "Photos and videos",
+        "App info and performance",
+        "Health and fitness",
+        "Calendar",
+        "Files and docs",
+        "Audio",
+        "Device or other IDs",
+        "Contacts",
         "Messages",
+        "Web browsing"
+      ],
+      "shared": []
+    }
+  },
+  "com.google.android.youtube": {
+    "name": "YouTube",
+    "developer": "Google LLC",
+    "policyUrl": "http://www.google.com/policies/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Audio",
+        "Messages",
+        "Financial info",
+        "Photos and videos",
+        "Web browsing",
+        "Contacts",
+        "App info and performance",
+        "Location",
+        "App activity",
+        "Personal info",
+        "Device or other IDs"
+      ],
+      "shared": []
+    }
+  },
+  "com.android.chrome": {
+    "name": "Google Chrome",
+    "developer": "Google LLC",
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "Financial info",
+        "Personal info",
+        "Web browsing",
+        "Audio",
+        "Photos and videos",
+        "Files and docs",
+        "App activity",
+        "Location"
+      ],
+      "shared": []
+    }
+  },
+  "ch.protonmail.android": {
+    "name": "Proton Mail: Encrypted Email",
+    "developer": "Proton AG",
+    "policyUrl": "https://proton.me/legal/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
+        "Contacts",
+        "Personal info",
+        "Device or other IDs",
+        "App info and performance"
+      ],
+      "shared": []
+    }
+  },
+  "com.sirius": {
+    "name": "SiriusXM: Music, Sports & Talk",
+    "developer": "SiriusXM",
+    "policyUrl": "http://www.siriusxm.com/pdf/siriusxm_privacypolicy_eng.pdf",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Financial info",
+        "App activity",
+        "Device or other IDs",
+        "Location",
+        "App info and performance",
+        "Personal info"
+      ],
+      "shared": [
+        "App activity",
+        "Location",
+        "App info and performance",
+        "Personal info"
+      ]
+    }
+  },
+  "co.windyapp.android": {
+    "name": "Windy.app - Enhanced forecast",
+    "developer": "Windy Weather World Inc",
+    "policyUrl": "http://www.windyapp.co/CustomMenuItems/26/en",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "App activity",
+        "Personal info"
+      ],
+      "shared": [
+        "App info and performance",
+        "Location",
         "App activity",
         "Device or other IDs"
       ]
-    },
-    "note": "PLACEHOLDER written from memory on 2026-10-17 to exercise the format. Check every item against the Play Store page and remove this note before relying on it."
+    }
+  },
+  "com.google.android.apps.bard": {
+    "name": "Google Gemini",
+    "developer": "Google LLC",
+    "policyUrl": "https://support.google.com/bard/answer/13594961",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Web browsing",
+        "App activity",
+        "Calendar",
+        "Contacts",
+        "Location",
+        "Personal info",
+        "App info and performance",
+        "Audio",
+        "Files and docs",
+        "Messages",
+        "Photos and videos",
+        "Financial info",
+        "Device or other IDs"
+      ],
+      "shared": []
+    }
+  },
+  "com.google.android.apps.maps": {
+    "name": "Google Maps",
+    "developer": "Google LLC",
+    "policyUrl": "http://www.google.com/policies/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "Files and docs",
+        "Messages",
+        "Personal info",
+        "Contacts",
+        "Photos and videos",
+        "Device or other IDs",
+        "Financial info",
+        "Web browsing",
+        "Location",
+        "App activity",
+        "Audio"
+      ],
+      "shared": []
+    }
+  },
+  "com.google.android.gm": {
+    "name": "Gmail",
+    "developer": "Google LLC",
+    "policyUrl": "http://www.google.com/policies/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
+        "Location",
+        "Files and docs",
+        "Photos and videos",
+        "Messages",
+        "Calendar",
+        "Personal info",
+        "Contacts",
+        "App info and performance",
+        "Device or other IDs",
+        "Financial info",
+        "Audio"
+      ],
+      "shared": []
+    }
+  },
+  "com.microsoft.teams": {
+    "name": "Microsoft Teams",
+    "developer": "Microsoft Corporation",
+    "policyUrl": "https://aka.ms/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Device or other IDs",
+        "App info and performance",
+        "Messages",
+        "Calendar",
+        "Contacts",
+        "App activity",
+        "Location",
+        "Files and docs",
+        "Audio",
+        "Photos and videos",
+        "Personal info"
+      ],
+      "shared": [
+        "Personal info"
+      ]
+    }
+  },
+  "com.instagram.android": {
+    "name": "Instagram",
+    "developer": "Instagram",
+    "policyUrl": "http://instagram.com/legal/privacy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Personal info",
+        "Audio",
+        "Financial info",
+        "Photos and videos",
+        "Location",
+        "Calendar",
+        "Contacts",
+        "Device or other IDs",
+        "Files and docs",
+        "Messages",
+        "Web browsing",
+        "Health and fitness",
+        "App info and performance",
+        "App activity"
+      ],
+      "shared": [
+        "Personal info",
+        "Device or other IDs"
+      ]
+    }
+  },
+  "com.amazon.mShop.android.shopping": {
+    "name": "Amazon Shopping",
+    "developer": "Amazon Mobile LLC",
+    "policyUrl": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App activity",
+        "Location",
+        "Financial info",
+        "Audio",
+        "Photos and videos",
+        "Personal info",
+        "Device or other IDs",
+        "Messages",
+        "App info and performance",
+        "Files and docs",
+        "Health and fitness"
+      ],
+      "shared": [
+        "App activity",
+        "Financial info",
+        "Photos and videos",
+        "Personal info",
+        "Device or other IDs",
+        "Health and fitness"
+      ]
+    }
+  },
+  "com.netflix.mediaclient": {
+    "name": "Netflix",
+    "developer": "Netflix, Inc.",
+    "policyUrl": "http://www.netflix.com/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Audio",
+        "Personal info",
+        "Location",
+        "App info and performance",
+        "Device or other IDs",
+        "App activity"
+      ],
+      "shared": []
+    }
+  },
+  "com.google.android.apps.photos": {
+    "name": "Google Photos",
+    "developer": "Google LLC",
+    "policyUrl": "http://www.google.com/policies/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Audio",
+        "Device or other IDs",
+        "Photos and videos",
+        "Location",
+        "Messages",
+        "Personal info",
+        "App activity",
+        "Financial info",
+        "App info and performance",
+        "Contacts"
+      ],
+      "shared": []
+    }
+  },
+  "com.ubercab": {
+    "name": "Uber: Rides, eats, hotels",
+    "developer": "Uber Technologies, Inc.",
+    "policyUrl": "https://www.uber.com/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Device or other IDs",
+        "Photos and videos",
+        "App activity",
+        "App info and performance",
+        "Financial info",
+        "Personal info",
+        "Location",
+        "Contacts",
+        "Messages",
+        "Audio"
+      ],
+      "shared": [
+        "App activity"
+      ]
+    }
+  },
+  "com.zhiliaoapp.musically": {
+    "name": "TikTok - Videos, Shop & LIVE",
+    "developer": "TikTok Pte. Ltd.",
+    "policyUrl": "https://www.tiktok.com/legal/privacy-policy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "Contacts",
+        "Personal info",
+        "App activity",
+        "Device or other IDs",
+        "Web browsing",
+        "Photos and videos",
+        "Messages",
+        "Financial info",
+        "Audio",
+        "Location"
+      ],
+      "shared": [
+        "Personal info",
+        "App activity",
+        "Photos and videos",
+        "Audio"
+      ]
+    }
+  },
+  "us.zoom.videomeetings": {
+    "name": "Zoom Workplace",
+    "developer": "zoom.com",
+    "policyUrl": "http://zoom.us/privacy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Contacts",
+        "Financial info",
+        "Location",
+        "Photos and videos",
+        "App activity",
+        "Messages",
+        "App info and performance",
+        "Calendar",
+        "Files and docs",
+        "Audio",
+        "Device or other IDs",
+        "Personal info"
+      ],
+      "shared": []
+    }
+  },
+  "com.paypal.android.p2pmobile": {
+    "name": "PayPal - Pay, Send, Save",
+    "developer": "PayPal Mobile",
+    "policyUrl": "https://www.paypal.com/webapps/mpp/ua/privacy-full",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Device or other IDs",
+        "Contacts",
+        "Files and docs",
+        "Personal info",
+        "Financial info",
+        "App info and performance",
+        "App activity",
+        "Location",
+        "Photos and videos"
+      ],
+      "shared": [
+        "Personal info"
+      ]
+    }
   }
 }
