@@ -1,0 +1,7 @@
+# Apps the declarations file covers, one package name per line.
+# Start: apps seen on the test phone with traffic or sensitive access.
+com.whatsapp
+com.facebook.orca
+com.microsoft.office.outlook
+com.waze
+com.google.android.gms

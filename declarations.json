@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "generatedAt": "2026-10-17T23:10:39Z",
+  "sdk": 37,
+  "source": {
+    "declarations": "manual",
+    "note": "Entries typed by hand from each app's Play Store page. No automatic source is in use."
+  },
+  "dataTypesByGroup": {
+    "LOCATION": [
+      "Location"
+    ],
+    "CAMERA": [
+      "Photos and videos"
+    ],
+    "MICROPHONE": [
+      "Audio"
+    ],
+    "CONTACTS": [
+      "Contacts"
+    ],
+    "CALENDAR": [
+      "Calendar"
+    ],
+    "PHONE": [
+      "Personal info",
+      "Device or other IDs"
+    ],
+    "CALL_LOG": [
+      "Personal info"
+    ],
+    "SMS": [
+      "Messages"
+    ],
+    "BODY_SENSORS": [
+      "Health and fitness"
+    ],
+    "ACTIVITY": [
+      "Health and fitness"
+    ],
+    "NEARBY_DEVICES": [
+      "Device or other IDs"
+    ],
+    "FILES_AND_MEDIA": [
+      "Photos and videos",
+      "Files and docs",
+      "Audio"
+    ]
+  },
+  "apps": {
+    "com.facebook.orca": {
+      "readAt": null,
+      "declared": null
+    },
+    "com.google.android.gms": {
+      "readAt": null,
+      "declared": null
+    },
+    "com.microsoft.office.outlook": {
+      "readAt": null,
+      "declared": null
+    },
+    "com.waze": {
+      "readAt": null,
+      "declared": null
+    },
+    "com.whatsapp": {
+      "name": "WhatsApp Messenger",
+      "developer": "WhatsApp LLC",
+      "policyUrl": "https://www.whatsapp.com/legal/privacy-policy",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Location",
+          "Personal info",
+          "Financial info",
+          "Messages",
+          "Photos and videos",
+          "Audio",
+          "Files and docs",
+          "Contacts",
+          "App activity",
+          "App info and performance",
+          "Device or other IDs"
+        ],
+        "shared": [
+          "Personal info",
+          "Financial info",
+          "Messages",
+          "App activity",
+          "Device or other IDs"
+        ]
+      }
+    }
+  }
+}

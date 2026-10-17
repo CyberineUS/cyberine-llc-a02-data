@@ -1,0 +1,32 @@
+{
+  "com.whatsapp": {
+    "name": "WhatsApp Messenger",
+    "developer": "WhatsApp LLC",
+    "policyUrl": "https://www.whatsapp.com/legal/privacy-policy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "declared": {
+      "collected": [
+        "Location",
+        "Personal info",
+        "Financial info",
+        "Messages",
+        "Photos and videos",
+        "Audio",
+        "Files and docs",
+        "Contacts",
+        "App activity",
+        "App info and performance",
+        "Device or other IDs"
+      ],
+      "shared": [
+        "Personal info",
+        "Financial info",
+        "Messages",
+        "App activity",
+        "Device or other IDs"
+      ]
+    },
+    "note": "PLACEHOLDER written from memory on 2026-10-17 to exercise the format. Check every item against the Play Store page and remove this note before relying on it."
+  }
+}
