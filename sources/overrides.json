@@ -2104,5 +2104,180 @@
       "collected": [],
       "shared": []
     }
+  },
+  "io.pushpay.airbornemartinsburg": {
+    "name": "Airborne Church",
+    "developer": "Airborne Church Inc.",
+    "policyUrl": "https://pushpay.com/legal-center/privacy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Photos and videos",
+        "App info and performance",
+        "Personal info",
+        "Files and docs",
+        "App activity",
+        "Messages",
+        "Device or other IDs",
+        "Audio"
+      ],
+      "shared": [
+        "Photos and videos",
+        "App info and performance",
+        "Personal info",
+        "Files and docs",
+        "Messages",
+        "Audio"
+      ]
+    }
+  },
+  "com.ministrybrands.f1.go": {
+    "name": "FellowshipOne Go",
+    "developer": "Ministry Brands",
+    "policyUrl": "http://www.fellowshipone.com/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Device or other IDs",
+        "App activity",
+        "Files and docs",
+        "App info and performance",
+        "Financial info",
+        "Photos and videos",
+        "Personal info"
+      ],
+      "shared": []
+    }
+  },
+  "com.earthglobemap.livesatellite.gps": {
+    "name": "Satellite View - Maps - Radar",
+    "developer": "Mortys Games",
+    "policyUrl": "https://www.mortysgames.com/privacy-policy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "App info and performance",
+        "Location",
+        "App activity",
+        "Device or other IDs"
+      ],
+      "shared": [
+        "App info and performance",
+        "Location",
+        "App activity",
+        "Device or other IDs"
+      ]
+    }
+  },
+  "com.growtons.call.blocker.block.spam.calls.blacklist.unknown.calls.block.robo.calls": {
+    "name": "Unknown Call & Contact Blocker",
+    "developer": "Growtons Tech",
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [],
+      "shared": []
+    }
+  },
+  "com.starlink.mobile": {
+    "name": "Starlink",
+    "developer": "Space Exploration Technologies Corp.",
+    "policyUrl": "https://www.starlink.com/legal/privacy-policy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Personal info",
+        "Files and docs",
+        "App activity",
+        "Device or other IDs",
+        "App info and performance",
+        "Location",
+        "Photos and videos",
+        "Messages"
+      ],
+      "shared": []
+    }
+  },
+  "weather.forecast.channel.live": {
+    "name": "Weather Forecast & Live Radar",
+    "developer": "Weather 365 Days",
+    "policyUrl": "https://weather365d.com/weatherforecast/privacy-policy/",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Location",
+        "App activity",
+        "Device or other IDs"
+      ],
+      "shared": [
+        "App info and performance"
+      ]
+    }
+  },
+  "com.weather.daily.local.live": {
+    "name": "Weather Forecast - Live Alerts",
+    "developer": "RODRIGUEZCASTILLO FABIOLA",
+    "policyUrl": "https://sites.google.com/view/wf2-privacy-policy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Personal info",
+        "Location",
+        "Device or other IDs",
+        "App info and performance",
+        "Financial info",
+        "App activity"
+      ],
+      "shared": [
+        "Device or other IDs",
+        "App info and performance",
+        "App activity"
+      ]
+    }
+  },
+  "com.whatnot_mobile": {
+    "name": "Whatnot: Shop, Sell, Connect",
+    "developer": "Whatnot Inc.",
+    "policyUrl": "https://www.whatnot.com/privacy",
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Contacts",
+        "Personal info",
+        "Financial info",
+        "Audio",
+        "App info and performance",
+        "Photos and videos",
+        "App activity",
+        "Messages",
+        "Device or other IDs",
+        "Location"
+      ],
+      "shared": [
+        "Personal info",
+        "Financial info",
+        "Audio",
+        "App info and performance",
+        "Photos and videos",
+        "App activity",
+        "Device or other IDs"
+      ]
+    }
   }
 }

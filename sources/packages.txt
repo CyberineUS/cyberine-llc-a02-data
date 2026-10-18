@@ -21,6 +21,7 @@ com.corporatetools.phoneservice
 com.cyberinellc.sj
 com.dhgate.buyermob
 com.dominospizza
+com.earthglobemap.livesatellite.gps
 com.einnovation.temu
 com.facebook.katana
 com.facebook.orca
@@ -40,6 +41,7 @@ com.google.android.gm
 com.google.android.safetycore
 com.google.android.videos
 com.google.android.youtube
+com.growtons.call.blocker.block.spam.calls.blacklist.unknown.calls.block.robo.calls
 com.hughes.epo
 com.instagram.android
 com.kwikset.blewifi
@@ -55,6 +57,7 @@ com.microsoft.office.outlook
 com.microsoft.office.word
 com.microsoft.teams
 com.microsoft.windowsintune.companyportal
+com.ministrybrands.f1.go
 com.move.realtor
 com.navyfederal.android
 com.netflix.mediaclient
@@ -79,6 +82,7 @@ com.simplenexus.loans.client.s__55368
 com.sirius
 com.sirma.mobile.bible.android
 com.spotify.music
+com.starlink.mobile
 com.target.ui
 com.thehomedepot
 com.tplink.tether
@@ -89,8 +93,11 @@ com.victronenergy.victronconnect
 com.walmart.android
 com.waze
 com.weather.Weather
+com.weather.daily.local.live
+com.whatnot_mobile
 com.whatsapp
 com.zhiliaoapp.musically
+io.pushpay.airbornemartinsburg
 me.proton.android.drive
 onxmaps.offroad
 org.mozilla.firefox
@@ -98,3 +105,4 @@ org.plantnet
 org.watchduty.app
 org.zwanoo.android.speedtest
 us.zoom.videomeetings
+weather.forecast.channel.live

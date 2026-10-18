@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-18T00:59:08Z",
+  "generatedAt": "2026-10-18T01:06:24Z",
   "sdk": 37,
   "source": {
     "declarations": "manual",
@@ -480,6 +480,27 @@
         ]
       }
     },
+    "com.earthglobemap.livesatellite.gps": {
+      "name": "Satellite View - Maps - Radar",
+      "developer": "Mortys Games",
+      "policyUrl": "https://www.mortysgames.com/privacy-policy/",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "App info and performance",
+          "Location",
+          "App activity",
+          "Device or other IDs"
+        ],
+        "shared": [
+          "App info and performance",
+          "Location",
+          "App activity",
+          "Device or other IDs"
+        ]
+      }
+    },
     "com.einnovation.temu": {
       "name": "Temu: Shop Like a Billionaire",
       "developer": "Temu",
@@ -884,6 +905,17 @@
         "shared": []
       }
     },
+    "com.growtons.call.blocker.block.spam.calls.blacklist.unknown.calls.block.robo.calls": {
+      "name": "Unknown Call & Contact Blocker",
+      "developer": "Growtons Tech",
+      "policyUrl": null,
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [],
+        "shared": []
+      }
+    },
     "com.hughes.epo": {
       "name": "POWER WATCHDOG Bluetooth ONLY",
       "developer": "Hughes Autoformers LLC",
@@ -1213,6 +1245,25 @@
           "Personal info",
           "Device or other IDs"
         ]
+      }
+    },
+    "com.ministrybrands.f1.go": {
+      "name": "FellowshipOne Go",
+      "developer": "Ministry Brands",
+      "policyUrl": "http://www.fellowshipone.com/",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Device or other IDs",
+          "App activity",
+          "Files and docs",
+          "App info and performance",
+          "Financial info",
+          "Photos and videos",
+          "Personal info"
+        ],
+        "shared": []
       }
     },
     "com.move.realtor": {
@@ -1659,6 +1710,26 @@
         ]
       }
     },
+    "com.starlink.mobile": {
+      "name": "Starlink",
+      "developer": "Space Exploration Technologies Corp.",
+      "policyUrl": "https://www.starlink.com/legal/privacy-policy",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Personal info",
+          "Files and docs",
+          "App activity",
+          "Device or other IDs",
+          "App info and performance",
+          "Location",
+          "Photos and videos",
+          "Messages"
+        ],
+        "shared": []
+      }
+    },
     "com.target.ui": {
       "name": "Target: Shop. Style. Save.",
       "developer": "Target Corporation",
@@ -1870,6 +1941,58 @@
         ]
       }
     },
+    "com.weather.daily.local.live": {
+      "name": "Weather Forecast - Live Alerts",
+      "developer": "RODRIGUEZCASTILLO FABIOLA",
+      "policyUrl": "https://sites.google.com/view/wf2-privacy-policy",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Personal info",
+          "Location",
+          "Device or other IDs",
+          "App info and performance",
+          "Financial info",
+          "App activity"
+        ],
+        "shared": [
+          "Device or other IDs",
+          "App info and performance",
+          "App activity"
+        ]
+      }
+    },
+    "com.whatnot_mobile": {
+      "name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "policyUrl": "https://www.whatnot.com/privacy",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Contacts",
+          "Personal info",
+          "Financial info",
+          "Audio",
+          "App info and performance",
+          "Photos and videos",
+          "App activity",
+          "Messages",
+          "Device or other IDs",
+          "Location"
+        ],
+        "shared": [
+          "Personal info",
+          "Financial info",
+          "Audio",
+          "App info and performance",
+          "Photos and videos",
+          "App activity",
+          "Device or other IDs"
+        ]
+      }
+    },
     "com.whatsapp": {
       "name": "WhatsApp Messenger",
       "developer": "WhatsApp LLC",
@@ -1913,6 +2036,33 @@
           "Personal info",
           "App activity",
           "Photos and videos",
+          "Audio"
+        ]
+      }
+    },
+    "io.pushpay.airbornemartinsburg": {
+      "name": "Airborne Church",
+      "developer": "Airborne Church Inc.",
+      "policyUrl": "https://pushpay.com/legal-center/privacy/",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Photos and videos",
+          "App info and performance",
+          "Personal info",
+          "Files and docs",
+          "App activity",
+          "Messages",
+          "Device or other IDs",
+          "Audio"
+        ],
+        "shared": [
+          "Photos and videos",
+          "App info and performance",
+          "Personal info",
+          "Files and docs",
+          "Messages",
           "Audio"
         ]
       }
@@ -2053,6 +2203,23 @@
           "Personal info"
         ],
         "shared": []
+      }
+    },
+    "weather.forecast.channel.live": {
+      "name": "Weather Forecast & Live Radar",
+      "developer": "Weather 365 Days",
+      "policyUrl": "https://weather365d.com/weatherforecast/privacy-policy/",
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "declared": {
+        "collected": [
+          "Location",
+          "App activity",
+          "Device or other IDs"
+        ],
+        "shared": [
+          "App info and performance"
+        ]
       }
     }
   }
