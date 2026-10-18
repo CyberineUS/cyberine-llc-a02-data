@@ -2080,5 +2080,29 @@
         "Device or other IDs"
       ]
     }
+  },
+  "com.cyberinellc.sj": {
+    "name": "JAMR: Call Screen & Block",
+    "developer": "CYBERINE",
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [],
+      "shared": []
+    }
+  },
+  "com.samsung.android.calendar": {
+    "name": "Samsung Calendar",
+    "developer": "Samsung Electronics Co., Ltd.",
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [],
+      "shared": []
+    }
   }
 }
