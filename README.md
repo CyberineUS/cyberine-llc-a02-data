@@ -65,7 +65,8 @@ their privacy policies are. The app compares each installed app's permissions wi
   fitness, Messages, Photos and videos, Audio, Files and docs, Calendar, Contacts, App activity,
   Web browsing, App info and performance, Device or other IDs.
 - An app with no entry is "not on file". An app whose entry has `"declared": null` was looked up
-  and had no Data safety section.
+  and had no Data safety section. `"listing": "removed"` means the Play Store page no longer
+  exists (the app was withdrawn or taken down after it was installed).
 
 ## Building and publishing
 

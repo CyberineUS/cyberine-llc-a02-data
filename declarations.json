@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-18T01:06:24Z",
+  "generatedAt": "2026-10-18T01:17:00Z",
   "sdk": 37,
   "source": {
     "declarations": "manual",
@@ -54,6 +54,7 @@
       "policyUrl": "https://x.ai/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -78,6 +79,7 @@
       "policyUrl": "https://proton.me/legal/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -95,6 +97,7 @@
       "policyUrl": "https://api-java.picturethisai.com/static/privacy_policy.html",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -119,6 +122,7 @@
       "policyUrl": "http://www.windyapp.co/CustomMenuItems/26/en",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -133,12 +137,22 @@
         ]
       }
     },
+    "com.DeltaDefense.ReciprocityByUSCCA": {
+      "name": "Reciprocity",
+      "developer": null,
+      "policyUrl": null,
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "listing": "removed",
+      "declared": null
+    },
     "com.DeltaDefense.playstore.uscca": {
       "name": "USCCA Concealed Carry App",
       "developer": "The USCCA",
       "policyUrl": "https://www.usconcealedcarry.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -157,6 +171,7 @@
       "policyUrl": "https://www.airbnb.com/help/article/2855/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -184,6 +199,7 @@
       "policyUrl": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -214,6 +230,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -235,6 +252,7 @@
       "policyUrl": "https://anonyome.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -251,6 +269,7 @@
       "policyUrl": "https://www.anthropic.com/legal/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -275,6 +294,7 @@
       "policyUrl": "http://www.att.com/privacypolicy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location"
@@ -290,6 +310,7 @@
       "policyUrl": "https://aviatorassistant.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -306,6 +327,7 @@
       "policyUrl": "http://go.microsoft.com/fwlink/?linkid=282053",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location"
@@ -322,6 +344,7 @@
       "policyUrl": "http://www.bestbuy.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -348,6 +371,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": [
@@ -364,6 +388,7 @@
       "policyUrl": "https://drivesmarter.com/support/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -384,6 +409,7 @@
       "policyUrl": "https://ground.news/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -401,6 +427,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -412,6 +439,7 @@
       "policyUrl": "https://corporatetools.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Messages",
@@ -430,6 +458,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -441,6 +470,7 @@
       "policyUrl": "https://www.dhgate.com/buyer/privacyIndex?id=1&isapp=app",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -464,6 +494,7 @@
       "policyUrl": "https://www.dominos.com/content/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -486,6 +517,7 @@
       "policyUrl": "https://www.mortysgames.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -507,6 +539,7 @@
       "policyUrl": "https://www.temu.com/privacy-and-cookie-policy.html",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -528,6 +561,7 @@
       "policyUrl": "https://www.facebook.com/about/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -557,6 +591,7 @@
       "policyUrl": "https://m.facebook.com/policy.php",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -586,6 +621,7 @@
       "policyUrl": "https://www.fate.tech/privacypolicyterms",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -603,6 +639,7 @@
       "policyUrl": "https://download.dvr163.com/apk/eseecloud/PrivacyPolicy.html?goods_language=zh_CN&app_bundle=c6pzcSgScP4Pdj0PdPwSe3wR",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -624,6 +661,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -642,6 +680,7 @@
       "policyUrl": "https://support.google.com/bard/answer/13594961",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Web browsing",
@@ -667,6 +706,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -690,6 +730,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -714,6 +755,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Audio",
@@ -736,6 +778,7 @@
       "policyUrl": "http://www.google.com/policies/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -755,6 +798,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -783,6 +827,7 @@
       "policyUrl": "http://www.google.com/intl/en/policies/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -804,6 +849,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -826,6 +872,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": null
     },
     "com.google.android.gm": {
@@ -834,6 +881,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -858,6 +906,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -869,6 +918,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Messages",
@@ -888,6 +938,7 @@
       "policyUrl": "http://www.google.com/policies/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Audio",
@@ -911,6 +962,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -922,6 +974,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -933,6 +986,7 @@
       "policyUrl": "http://instagram.com/legal/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -962,6 +1016,7 @@
       "policyUrl": "https://www.privacy.assaabloydss.com/en/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -978,6 +1033,7 @@
       "policyUrl": "https://privacy.cornell.edu/information-use-cornell",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -994,6 +1050,7 @@
       "policyUrl": "https://www.linkedin.com/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Financial info",
@@ -1014,12 +1071,22 @@
         "shared": []
       }
     },
+    "com.linktech.valley": {
+      "name": "Valley",
+      "developer": null,
+      "policyUrl": null,
+      "readAt": "2026-10-17",
+      "versionCode": null,
+      "listing": "removed",
+      "declared": null
+    },
     "com.loves.finder": {
       "name": "Love's Rewards",
       "developer": "Love's Travel Stops and Country Stores, Inc.",
       "policyUrl": "https://www.loves.com/en/terms-and-privacy-app",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1045,6 +1112,7 @@
       "policyUrl": "https://www.lowes.com/l/privacy-and-security-statement.html",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1071,6 +1139,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": [
@@ -1087,6 +1156,7 @@
       "policyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1112,6 +1182,7 @@
       "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Files and docs",
@@ -1135,6 +1206,7 @@
       "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1159,6 +1231,7 @@
       "policyUrl": "https://www.microsoft.com/en-us/privacy/privacystatement",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -1183,6 +1256,7 @@
       "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Audio",
@@ -1207,6 +1281,7 @@
       "policyUrl": "https://aka.ms/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1232,6 +1307,7 @@
       "policyUrl": "http://go.microsoft.com/fwlink/?linkid=316996",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1253,6 +1329,7 @@
       "policyUrl": "http://www.fellowshipone.com/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1272,6 +1349,7 @@
       "policyUrl": "https://www.realtor.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1298,6 +1376,7 @@
       "policyUrl": "https://www.navyfederal.org/policy/privacy.html",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -1319,6 +1398,7 @@
       "policyUrl": "http://www.netflix.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Audio",
@@ -1337,6 +1417,7 @@
       "policyUrl": "https://www.nooriolife.com/policies/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1356,6 +1437,7 @@
       "policyUrl": "https://nordpass.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -1374,6 +1456,7 @@
       "policyUrl": "https://okta.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1390,6 +1473,7 @@
       "policyUrl": "https://openai.com/policies/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -1409,6 +1493,7 @@
       "policyUrl": "https://www.paypal.com/webapps/mpp/ua/privacy-full",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1432,6 +1517,7 @@
       "policyUrl": "https://www.redfin.com/about/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1453,6 +1539,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1464,6 +1551,7 @@
       "policyUrl": "https://www.rutters.com/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1485,6 +1573,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1496,6 +1585,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": [
@@ -1509,6 +1599,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1520,6 +1611,7 @@
       "policyUrl": "https://www.smartthings.com/privacypolicy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -1542,6 +1634,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1553,6 +1646,7 @@
       "policyUrl": "https://www.samsung.com/sec/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -1569,6 +1663,7 @@
       "policyUrl": "https://terms.samsungconsent.com/j5p7ll8g33/PDP/13.5/KOR/KOR_kor.html",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1586,6 +1681,7 @@
       "policyUrl": "https://www.samsunghealth.com/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1613,6 +1709,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1624,6 +1721,7 @@
       "policyUrl": "https://www.atlanticcoastmortgage.com/wp-content/uploads/2019/06/ACM-Privacy-Policy-2019a.pdf",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -1644,6 +1742,7 @@
       "policyUrl": "http://www.siriusxm.com/pdf/siriusxm_privacypolicy_eng.pdf",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Financial info",
@@ -1667,6 +1766,7 @@
       "policyUrl": "https://www.bible.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1691,6 +1791,7 @@
       "policyUrl": "https://www.spotify.com/legal/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -1716,6 +1817,7 @@
       "policyUrl": "https://www.starlink.com/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1736,6 +1838,7 @@
       "policyUrl": "http://www.target.com/c/target-privacy-policy/-/N-4sr7p",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -1758,6 +1861,7 @@
       "policyUrl": "https://www.homedepot.com/privacy/privacy-and-security-statement",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1789,6 +1893,7 @@
       "policyUrl": "https://privacy.tp-link.com/app/Tether/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1806,6 +1911,7 @@
       "policyUrl": "https://privacy.tp-link.com/app/Deco/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1823,6 +1929,7 @@
       "policyUrl": "https://www.uber.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1847,6 +1954,7 @@
       "policyUrl": "https://www.usaa.com/privacy/promise",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -1869,6 +1977,7 @@
       "policyUrl": null,
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [],
         "shared": []
@@ -1880,6 +1989,7 @@
       "policyUrl": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice/walmart-app-privacy-notice-quick-links",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App activity",
@@ -1902,6 +2012,7 @@
       "policyUrl": "http://www.waze.com/legal/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -1924,6 +2035,7 @@
       "policyUrl": "https://weather.com/en-US/twc/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -1947,6 +2059,7 @@
       "policyUrl": "https://sites.google.com/view/wf2-privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -1969,6 +2082,7 @@
       "policyUrl": "https://www.whatnot.com/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -1999,6 +2113,7 @@
       "policyUrl": "https://www.whatsapp.com/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -2018,6 +2133,7 @@
       "policyUrl": "https://www.tiktok.com/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -2046,6 +2162,7 @@
       "policyUrl": "https://pushpay.com/legal-center/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -2073,6 +2190,7 @@
       "policyUrl": "https://proton.me/legal/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -2089,6 +2207,7 @@
       "policyUrl": "https://www.onxmaps.com/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",
@@ -2115,6 +2234,7 @@
       "policyUrl": "https://www.mozilla.org/privacy/firefox/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "App info and performance",
@@ -2132,6 +2252,7 @@
       "policyUrl": "https://api.plantnet.org/views/terms_of_use",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Photos and videos",
@@ -2149,6 +2270,7 @@
       "policyUrl": "https://www.watchduty.org/legal/privacy-policy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Personal info",
@@ -2163,6 +2285,7 @@
       "policyUrl": "https://www.speedtest.net/about/privacy",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Device or other IDs",
@@ -2187,6 +2310,7 @@
       "policyUrl": "http://zoom.us/privacy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Contacts",
@@ -2211,6 +2335,7 @@
       "policyUrl": "https://weather365d.com/weatherforecast/privacy-policy/",
       "readAt": "2026-10-17",
       "versionCode": null,
+      "listing": "present",
       "declared": {
         "collected": [
           "Location",

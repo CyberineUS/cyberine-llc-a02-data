@@ -3,6 +3,7 @@ ai.x.grok
 ch.protonmail.android
 cn.danatech.xingseus
 co.windyapp.android
+com.DeltaDefense.ReciprocityByUSCCA
 com.DeltaDefense.playstore.uscca
 com.airbnb.android
 com.amazon.mShop.android.shopping
@@ -47,6 +48,7 @@ com.instagram.android
 com.kwikset.blewifi
 com.labs.merlinbirdid.app
 com.linkedin.android
+com.linktech.valley
 com.loves.finder
 com.lowes.android
 com.map.earth.live.maps

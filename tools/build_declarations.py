@@ -9,6 +9,8 @@ sources/overrides.json, and writes declarations.json in format 1.
   dataset is used, fetch_declaration() returns nothing and every entry comes from overrides.
 - A package with no override is written with "declared": null and no readAt, so the app shows
   it as not on file.
+- An override with "listing": "removed" records a Play Store page that no longer exists; the
+  app shows that instead of a verdict.
 
 Copyright (c) 2026 CYBERINE LLC. All rights reserved.
 """
@@ -62,6 +64,7 @@ def main() -> int:
             "policyUrl": entry.get("policyUrl"),
             "readAt": entry["readAt"],
             "versionCode": entry.get("versionCode"),
+            "listing": entry.get("listing", "present"),
             "declared": entry["declared"],
         }
     on_file = sum(1 for a in apps.values() if a["declared"] is not None)

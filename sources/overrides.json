@@ -2279,5 +2279,25 @@
         "Device or other IDs"
       ]
     }
+  },
+  "com.DeltaDefense.ReciprocityByUSCCA": {
+    "name": "Reciprocity",
+    "developer": null,
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "listing": "removed",
+    "source": "Play Store details and Data safety pages both return Not Found, checked 2026-10-17 in the browser",
+    "declared": null
+  },
+  "com.linktech.valley": {
+    "name": "Valley",
+    "developer": null,
+    "policyUrl": null,
+    "readAt": "2026-10-17",
+    "versionCode": null,
+    "listing": "removed",
+    "source": "Play Store details and Data safety pages both return Not Found, checked 2026-10-17 in the browser",
+    "declared": null
   }
 }

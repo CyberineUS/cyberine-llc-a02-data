@@ -25,10 +25,11 @@
         "type": "object",
         "required": ["readAt", "declared"],
         "properties": {
-          "name": { "type": "string" },
-          "developer": { "type": "string" },
+          "name": { "type": ["string", "null"] },
+          "developer": { "type": ["string", "null"] },
           "policyUrl": { "type": ["string", "null"], "format": "uri" },
           "readAt": { "type": ["string", "null"], "format": "date" },
+          "listing": { "enum": ["present", "removed"] },
           "versionCode": { "type": ["integer", "null"] },
           "declared": {
             "type": ["object", "null"],
