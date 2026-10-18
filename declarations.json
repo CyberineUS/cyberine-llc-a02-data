@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-18T01:17:00Z",
+  "generatedAt": "2026-10-18T01:28:07Z",
   "sdk": 37,
   "source": {
     "declarations": "manual",
@@ -1071,14 +1071,19 @@
         "shared": []
       }
     },
-    "com.linktech.valley": {
-      "name": "Valley",
-      "developer": null,
-      "policyUrl": null,
+    "com.linkntech.valley": {
+      "name": "URFitAP - Valley",
+      "developer": "Dev@Link-N-Tech",
+      "policyUrl": "https://apps.link-n-tech.com/legal/vws/privacy.html",
       "readAt": "2026-10-17",
       "versionCode": null,
-      "listing": "removed",
-      "declared": null
+      "listing": "present",
+      "declared": {
+        "collected": [
+          "Device or other IDs"
+        ],
+        "shared": []
+      }
     },
     "com.loves.finder": {
       "name": "Love's Rewards",

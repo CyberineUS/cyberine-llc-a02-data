@@ -2290,14 +2290,18 @@
     "source": "Play Store details and Data safety pages both return Not Found, checked 2026-10-17 in the browser",
     "declared": null
   },
-  "com.linktech.valley": {
-    "name": "Valley",
-    "developer": null,
-    "policyUrl": null,
+  "com.linkntech.valley": {
+    "name": "URFitAP - Valley",
+    "developer": "Dev@Link-N-Tech",
+    "policyUrl": "https://apps.link-n-tech.com/legal/vws/privacy.html",
     "readAt": "2026-10-17",
     "versionCode": null,
-    "listing": "removed",
-    "source": "Play Store details and Data safety pages both return Not Found, checked 2026-10-17 in the browser",
-    "declared": null
+    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "declared": {
+      "collected": [
+        "Device or other IDs"
+      ],
+      "shared": []
+    }
   }
 }

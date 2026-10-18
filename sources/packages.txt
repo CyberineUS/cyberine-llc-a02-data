@@ -48,7 +48,7 @@ com.instagram.android
 com.kwikset.blewifi
 com.labs.merlinbirdid.app
 com.linkedin.android
-com.linktech.valley
+com.linkntech.valley
 com.loves.finder
 com.lowes.android
 com.map.earth.live.maps
