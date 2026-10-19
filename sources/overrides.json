@@ -3,830 +3,1046 @@
     "name": "WhatsApp Messenger",
     "developer": "WhatsApp LLC",
     "policyUrl": "https://www.whatsapp.com/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Contacts",
-        "Location",
-        "Device or other IDs",
         "App activity",
+        "Location",
         "Personal info",
+        "Device or other IDs",
         "App info and performance",
+        "Contacts",
         "Financial info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.facebook.orca": {
     "name": "Messenger",
     "developer": "Meta Platforms, Inc.",
     "policyUrl": "https://m.facebook.com/policy.php",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
-        "Photos and videos",
-        "Calendar",
-        "Web browsing",
-        "Audio",
-        "Files and docs",
-        "App info and performance",
-        "Health and fitness",
-        "Financial info",
-        "Messages",
-        "Location",
         "Device or other IDs",
+        "Web browsing",
+        "Location",
+        "Messages",
+        "Files and docs",
+        "Health and fitness",
+        "Audio",
+        "Contacts",
+        "Financial info",
+        "App info and performance",
         "Personal info",
-        "Contacts"
+        "App activity",
+        "Calendar",
+        "Photos and videos"
       ],
       "shared": [
         "Device or other IDs",
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.office.outlook": {
     "name": "Microsoft Outlook",
     "developer": "Microsoft Corporation",
     "policyUrl": "https://www.microsoft.com/en-us/privacy/privacystatement",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
-        "Files and docs",
-        "Photos and videos",
-        "Messages",
         "Calendar",
-        "Personal info",
         "Contacts",
         "App info and performance",
+        "App activity",
+        "Audio",
         "Device or other IDs",
-        "Audio"
+        "Messages",
+        "Files and docs",
+        "Personal info",
+        "Photos and videos"
       ],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.waze": {
     "name": "Waze Navigation & Live Traffic",
     "developer": "Waze",
     "policyUrl": "http://www.waze.com/legal/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
+        "Location",
         "Messages",
-        "Calendar",
         "App info and performance",
-        "App activity",
         "Audio",
-        "Personal info",
-        "Location"
+        "App activity",
+        "Calendar",
+        "Photos and videos",
+        "Personal info"
       ],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.facebook.katana": {
     "name": "Facebook",
     "developer": "Meta Platforms, Inc.",
     "policyUrl": "https://www.facebook.com/about/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Location",
+        "Contacts",
+        "Photos and videos",
+        "Personal info",
+        "Files and docs",
+        "Web browsing",
+        "Audio",
+        "Calendar",
+        "App info and performance",
         "App activity",
         "Messages",
         "Health and fitness",
-        "App info and performance",
-        "Web browsing",
-        "Files and docs",
-        "Audio",
-        "Contacts",
-        "Location",
-        "Photos and videos",
         "Device or other IDs",
-        "Calendar",
-        "Financial info",
-        "Personal info"
+        "Financial info"
       ],
       "shared": [
-        "Device or other IDs",
-        "Personal info"
+        "Personal info",
+        "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.spotify.music": {
     "name": "Spotify: Music and Podcasts",
     "developer": "Spotify AB",
     "policyUrl": "https://www.spotify.com/legal/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
-        "App activity",
         "Photos and videos",
+        "App info and performance",
         "Financial info",
-        "Location",
-        "Personal info",
-        "Audio",
         "Contacts",
-        "Device or other IDs"
+        "App activity",
+        "Location",
+        "Device or other IDs",
+        "Personal info",
+        "Audio"
       ],
       "shared": [
         "Location",
-        "Personal info",
-        "Device or other IDs"
+        "Device or other IDs",
+        "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.linkedin.android": {
     "name": "LinkedIn: Community & Network",
     "developer": "LinkedIn",
     "policyUrl": "https://www.linkedin.com/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Financial info",
-        "App activity",
-        "Personal info",
-        "Location",
-        "Photos and videos",
         "App info and performance",
-        "Health and fitness",
+        "Photos and videos",
+        "Personal info",
         "Calendar",
+        "Contacts",
+        "Location",
+        "Financial info",
         "Files and docs",
         "Audio",
-        "Device or other IDs",
-        "Contacts",
         "Messages",
+        "App activity",
+        "Health and fitness",
+        "Device or other IDs",
         "Web browsing"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.youtube": {
     "name": "YouTube",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Location",
+        "App info and performance",
+        "Photos and videos",
+        "Device or other IDs",
         "Audio",
+        "Contacts",
         "Messages",
         "Financial info",
-        "Photos and videos",
-        "Web browsing",
-        "Contacts",
-        "App info and performance",
-        "Location",
-        "App activity",
         "Personal info",
-        "Device or other IDs"
+        "App activity",
+        "Web browsing"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.android.chrome": {
     "name": "Google Chrome",
     "developer": "Google LLC",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
         "Financial info",
-        "Personal info",
-        "Web browsing",
-        "Audio",
-        "Photos and videos",
-        "Files and docs",
+        "App info and performance",
         "App activity",
-        "Location"
+        "Files and docs",
+        "Personal info",
+        "Audio",
+        "Location",
+        "Photos and videos",
+        "Web browsing"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "ch.protonmail.android": {
     "name": "Proton Mail: Encrypted Email",
     "developer": "Proton AG",
     "policyUrl": "https://proton.me/legal/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
+        "App info and performance",
         "Contacts",
         "Personal info",
-        "Device or other IDs",
-        "App info and performance"
+        "App activity",
+        "Device or other IDs"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.sirius": {
     "name": "SiriusXM: Music, Sports & Talk",
     "developer": "SiriusXM",
     "policyUrl": "http://www.siriusxm.com/pdf/siriusxm_privacypolicy_eng.pdf",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Financial info",
-        "App activity",
         "Device or other IDs",
-        "Location",
+        "App activity",
+        "Financial info",
         "App info and performance",
-        "Personal info"
+        "Personal info",
+        "Location"
       ],
       "shared": [
         "App activity",
-        "Location",
         "App info and performance",
-        "Personal info"
+        "Personal info",
+        "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "co.windyapp.android": {
     "name": "Windy.app - Enhanced forecast",
     "developer": "Windy Weather World Inc",
     "policyUrl": "http://www.windyapp.co/CustomMenuItems/26/en",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
+        "Personal info",
         "App activity",
-        "Personal info"
+        "App info and performance"
       ],
       "shared": [
-        "App info and performance",
-        "Location",
         "App activity",
-        "Device or other IDs"
+        "Location",
+        "Device or other IDs",
+        "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.bard": {
     "name": "Google Gemini",
     "developer": "Google LLC",
     "policyUrl": "https://support.google.com/bard/answer/13594961",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Web browsing",
-        "App activity",
-        "Calendar",
         "Contacts",
-        "Location",
+        "Photos and videos",
+        "Web browsing",
+        "Calendar",
         "Personal info",
         "App info and performance",
-        "Audio",
-        "Files and docs",
-        "Messages",
-        "Photos and videos",
+        "App activity",
         "Financial info",
-        "Device or other IDs"
+        "Location",
+        "Device or other IDs",
+        "Files and docs",
+        "Audio",
+        "Messages"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.maps": {
     "name": "Google Maps",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
-        "Files and docs",
-        "Messages",
-        "Personal info",
-        "Contacts",
+        "Audio",
         "Photos and videos",
+        "Location",
+        "Web browsing",
         "Device or other IDs",
         "Financial info",
-        "Web browsing",
-        "Location",
+        "Messages",
+        "App info and performance",
         "App activity",
-        "Audio"
+        "Contacts",
+        "Files and docs",
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.google.android.gm": {
     "name": "Gmail",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
-        "Location",
-        "Files and docs",
-        "Photos and videos",
-        "Messages",
-        "Calendar",
-        "Personal info",
         "Contacts",
+        "Calendar",
         "App info and performance",
-        "Device or other IDs",
+        "Files and docs",
+        "Audio",
+        "Photos and videos",
+        "App activity",
         "Financial info",
-        "Audio"
+        "Location",
+        "Personal info",
+        "Device or other IDs",
+        "Messages"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.microsoft.teams": {
     "name": "Microsoft Teams",
     "developer": "Microsoft Corporation",
     "policyUrl": "https://aka.ms/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "App info and performance",
-        "Messages",
         "Calendar",
         "Contacts",
+        "App info and performance",
         "App activity",
+        "Audio",
+        "Device or other IDs",
+        "Messages",
         "Location",
         "Files and docs",
-        "Audio",
-        "Photos and videos",
-        "Personal info"
+        "Personal info",
+        "Photos and videos"
       ],
       "shared": [
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": true,
+      "independentReview": false
     }
   },
   "com.instagram.android": {
     "name": "Instagram",
     "developer": "Instagram",
     "policyUrl": "http://instagram.com/legal/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
         "Audio",
-        "Financial info",
+        "App info and performance",
+        "Calendar",
+        "Personal info",
+        "Files and docs",
         "Photos and videos",
         "Location",
-        "Calendar",
+        "Web browsing",
+        "Messages",
+        "Financial info",
+        "App activity",
         "Contacts",
         "Device or other IDs",
-        "Files and docs",
-        "Messages",
-        "Web browsing",
-        "Health and fitness",
-        "App info and performance",
-        "App activity"
+        "Health and fitness"
       ],
       "shared": [
         "Personal info",
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.amazon.mShop.android.shopping": {
     "name": "Amazon Shopping",
     "developer": "Amazon Mobile LLC",
     "policyUrl": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
-        "Location",
-        "Financial info",
-        "Audio",
         "Photos and videos",
         "Personal info",
+        "App activity",
+        "Location",
         "Device or other IDs",
         "Messages",
-        "App info and performance",
+        "Financial info",
         "Files and docs",
+        "App info and performance",
+        "Audio",
         "Health and fitness"
       ],
       "shared": [
-        "App activity",
-        "Financial info",
         "Photos and videos",
         "Personal info",
+        "App activity",
         "Device or other IDs",
+        "Financial info",
         "Health and fitness"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.netflix.mediaclient": {
     "name": "Netflix",
     "developer": "Netflix, Inc.",
     "policyUrl": "http://www.netflix.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Audio",
         "Personal info",
-        "Location",
+        "Audio",
         "App info and performance",
-        "Device or other IDs",
-        "App activity"
+        "Location",
+        "App activity",
+        "Device or other IDs"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.photos": {
     "name": "Google Photos",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Audio",
-        "Device or other IDs",
-        "Photos and videos",
-        "Location",
-        "Messages",
-        "Personal info",
         "App activity",
-        "Financial info",
+        "Audio",
+        "Messages",
+        "Contacts",
+        "Location",
+        "Photos and videos",
+        "Personal info",
+        "Device or other IDs",
         "App info and performance",
-        "Contacts"
+        "Financial info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.ubercab": {
     "name": "Uber: Rides, eats, hotels",
     "developer": "Uber Technologies, Inc.",
     "policyUrl": "https://www.uber.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Device or other IDs",
-        "Photos and videos",
-        "App activity",
         "App info and performance",
         "Financial info",
+        "App activity",
         "Personal info",
-        "Location",
         "Contacts",
         "Messages",
-        "Audio"
+        "Location",
+        "Audio",
+        "Photos and videos"
       ],
       "shared": [
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.zhiliaoapp.musically": {
     "name": "TikTok - Videos, Shop & LIVE",
     "developer": "TikTok Pte. Ltd.",
     "policyUrl": "https://www.tiktok.com/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
-        "Contacts",
-        "Personal info",
         "App activity",
-        "Device or other IDs",
         "Web browsing",
         "Photos and videos",
-        "Messages",
+        "Personal info",
+        "Contacts",
         "Financial info",
-        "Audio",
-        "Location"
+        "Device or other IDs",
+        "App info and performance",
+        "Messages",
+        "Location",
+        "Audio"
       ],
       "shared": [
-        "Personal info",
         "App activity",
         "Photos and videos",
+        "Personal info",
         "Audio"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "us.zoom.videomeetings": {
     "name": "Zoom Workplace",
     "developer": "zoom.com",
     "policyUrl": "http://zoom.us/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Contacts",
-        "Financial info",
-        "Location",
-        "Photos and videos",
-        "App activity",
-        "Messages",
+        "Audio",
         "App info and performance",
         "Calendar",
+        "Photos and videos",
+        "Contacts",
         "Files and docs",
-        "Audio",
+        "Messages",
+        "Financial info",
+        "Location",
         "Device or other IDs",
+        "App activity",
         "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.paypal.android.p2pmobile": {
     "name": "PayPal - Pay, Send, Save",
     "developer": "PayPal Mobile",
     "policyUrl": "https://www.paypal.com/webapps/mpp/ua/privacy-full",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Contacts",
         "Files and docs",
-        "Personal info",
-        "Financial info",
-        "App info and performance",
-        "App activity",
         "Location",
-        "Photos and videos"
+        "Contacts",
+        "Financial info",
+        "Personal info",
+        "Device or other IDs",
+        "App info and performance",
+        "Photos and videos",
+        "App activity"
       ],
       "shared": [
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.labs.merlinbirdid.app": {
     "name": "Merlin Bird ID by Cornell Lab",
     "developer": "Cornell Lab of Ornithology",
     "policyUrl": "https://privacy.cornell.edu/information-use-cornell",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Personal info",
         "App activity",
+        "Personal info",
+        "Device or other IDs",
         "App info and performance"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.openai.chatgpt": {
     "name": "ChatGPT",
     "developer": "OpenAI",
     "policyUrl": "https://openai.com/policies/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "App activity",
-        "Location",
+        "Messages",
         "App info and performance",
-        "Personal info",
-        "Messages"
+        "Location",
+        "Personal info"
       ],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.cedarelectronics.smartsight": {
     "name": "Drive Smarter",
     "developer": "Cedar Electronics",
     "policyUrl": "https://drivesmarter.com/support/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Contacts",
         "Device or other IDs",
         "Files and docs",
-        "Photos and videos",
         "Health and fitness",
+        "Contacts",
+        "Photos and videos",
         "Personal info"
       ],
       "shared": [
         "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.generalcomp.arcctv": {
     "name": "ARCCTV",
     "developer": "Shenzhen Anran Security Technology CO.,Ltd",
     "policyUrl": "https://download.dvr163.com/apk/eseecloud/PrivacyPolicy.html?goods_language=zh_CN&app_bundle=c6pzcSgScP4Pdj0PdPwSe3wR",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Personal info",
+        "Audio",
+        "App activity",
         "Location",
         "Device or other IDs",
-        "Personal info",
-        "App info and performance",
         "Photos and videos",
-        "Audio",
-        "App activity"
+        "App info and performance"
       ],
       "shared": [
         "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.corporatetools.phoneservice": {
     "name": "Corporate Phone",
-    "developer": "Corporate Tools",
+    "developer": "Hiatti Android Developers",
     "policyUrl": "https://corporatetools.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "App info and performance",
         "Messages",
         "Personal info",
-        "Contacts",
-        "App info and performance"
+        "Contacts"
       ],
       "shared": [
         "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.calendar": {
     "name": "Google Calendar",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "Device or other IDs",
-        "Messages",
-        "Personal info",
+        "App activity",
         "Contacts",
-        "App info and performance",
-        "Photos and videos",
+        "Messages",
+        "Device or other IDs",
+        "Personal info",
+        "Location",
         "Audio",
+        "App info and performance",
         "Calendar",
-        "App activity"
+        "Photos and videos"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.airbnb.android": {
     "name": "Airbnb",
     "developer": "Airbnb",
     "policyUrl": "https://www.airbnb.com/help/article/2855/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Contacts",
-        "Device or other IDs",
-        "App info and performance",
-        "Personal info",
-        "Location",
-        "App activity",
         "Messages",
+        "Device or other IDs",
+        "App activity",
+        "Location",
+        "App info and performance",
         "Files and docs",
-        "Financial info"
+        "Financial info",
+        "Personal info"
       ],
       "shared": [
         "Device or other IDs",
-        "Personal info",
-        "Location",
         "App activity",
-        "Financial info"
+        "Location",
+        "Financial info",
+        "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.simplenexus.loans.client.s__55368": {
     "name": "ACM Mobile Mortgage",
     "developer": "Atlantic Coast Mortgage, LLC",
     "policyUrl": "https://www.atlanticcoastmortgage.com/wp-content/uploads/2019/06/ACM-Privacy-Policy-2019a.pdf",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Files and docs",
+        "Device or other IDs",
         "App info and performance",
-        "Financial info",
         "App activity",
         "Contacts",
+        "Financial info",
         "Photos and videos",
-        "Personal info",
-        "Device or other IDs",
-        "Files and docs"
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.clj.airheater": {
     "name": "AirHeaterBLE",
     "developer": "江苏百易德电子科技有限公司",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.contactkeys": {
     "name": "Android System Key Verifier",
-    "developer": "Google LLC",
+    "developer": null,
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
-    "declared": null
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
+    "declared": null,
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
+    }
   },
   "com.google.android.safetycore": {
     "name": "Android System SafetyCore",
     "developer": "Google LLC",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": true,
+      "independentReview": false
     }
   },
   "com.google.android.apps.authenticator2": {
     "name": "Google Authenticator",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Personal info",
+        "Photos and videos",
         "App info and performance",
         "App activity",
-        "Contacts",
-        "Photos and videos",
         "Device or other IDs",
-        "Personal info"
+        "Contacts"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.azure.authenticator": {
     "name": "Microsoft Authenticator",
     "developer": "Microsoft Corporation",
     "policyUrl": "http://go.microsoft.com/fwlink/?linkid=282053",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Location"
@@ -835,498 +1051,630 @@
         "Location",
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.bestbuy.android": {
     "name": "Best Buy: Shop tech deals",
     "developer": "Best Buy Co., Inc",
     "policyUrl": "http://www.bestbuy.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
         "App activity",
         "Location",
-        "Photos and videos",
+        "Financial info",
+        "Personal info",
         "Device or other IDs",
-        "Financial info"
+        "Photos and videos"
       ],
       "shared": [
-        "Personal info",
+        "App info and performance",
         "App activity",
         "Location",
-        "App info and performance",
-        "Photos and videos",
+        "Financial info",
+        "Personal info",
         "Device or other IDs",
-        "Financial info"
+        "Photos and videos"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.sirma.mobile.bible.android": {
     "name": "YouVersion Bible App + Audio",
     "developer": "Life.Church",
     "policyUrl": "https://www.bible.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "App info and performance",
         "Photos and videos",
-        "Personal info",
-        "Contacts",
         "Device or other IDs",
-        "App activity",
-        "App info and performance"
+        "Contacts",
+        "Personal info",
+        "App activity"
       ],
       "shared": [
-        "Personal info",
-        "Financial info",
+        "App info and performance",
         "Device or other IDs",
-        "App activity",
-        "App info and performance"
+        "Financial info",
+        "Personal info",
+        "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.anthropic.claude": {
     "name": "Claude by Anthropic",
     "developer": "Anthropic PBC",
     "policyUrl": "https://www.anthropic.com/legal/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
-        "App activity",
-        "Files and docs",
-        "Photos and videos",
-        "Location",
+        "Personal info",
         "Device or other IDs",
-        "Personal info"
+        "App activity",
+        "Location",
+        "App info and performance",
+        "Photos and videos",
+        "Files and docs"
       ],
       "shared": [
-        "App info and performance",
+        "Personal info",
         "App activity",
         "Location",
-        "Personal info"
+        "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.windowsintune.companyportal": {
     "name": "Intune Company Portal",
     "developer": "Microsoft Corporation",
     "policyUrl": "http://go.microsoft.com/fwlink/?linkid=316996",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Personal info",
+        "Files and docs",
         "Location",
         "Device or other IDs",
         "App activity",
-        "App info and performance",
-        "Files and docs"
+        "App info and performance"
       ],
       "shared": [
         "Personal info",
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.tplink.tpm5": {
     "name": "TP-Link Deco",
     "developer": "TP-LINK SYSTEMS INC.",
     "policyUrl": "https://privacy.tp-link.com/app/Deco/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
         "Device or other IDs",
-        "Personal info",
+        "App info and performance",
         "App activity",
-        "App info and performance"
+        "Personal info",
+        "Photos and videos"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.dhgate.buyermob": {
     "name": "DHgate-online wholesale stores",
     "developer": "dhgate.com",
     "policyUrl": "https://www.dhgate.com/buyer/privacyIndex?id=1&isapp=app",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "Calendar",
-        "Photos and videos",
-        "App info and performance",
-        "Personal info",
         "Files and docs",
-        "App activity",
+        "Photos and videos",
+        "Personal info",
+        "Financial info",
         "Device or other IDs",
-        "Financial info"
+        "Location",
+        "App activity",
+        "App info and performance",
+        "Calendar"
       ],
       "shared": [
         "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.dominospizza": {
     "name": "Domino's Pizza USA",
     "developer": "Domino's Pizza LLC",
     "policyUrl": "https://www.dominos.com/content/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "App activity",
         "Location",
-        "App info and performance",
+        "App activity",
+        "Device or other IDs",
+        "Personal info",
         "Financial info",
-        "Personal info"
+        "App info and performance"
       ],
       "shared": [
-        "Device or other IDs",
         "App activity",
+        "Device or other IDs",
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.docs": {
     "name": "Google Drive",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "App activity",
-        "Personal info",
         "Device or other IDs",
-        "Photos and videos",
-        "Financial info",
-        "Audio",
+        "App activity",
         "App info and performance",
         "Contacts",
         "Files and docs",
-        "Messages"
+        "Audio",
+        "Location",
+        "Photos and videos",
+        "Messages",
+        "Financial info",
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.map.earth.live.maps": {
     "name": "Earth Map, Live Satellite View",
     "developer": "JP Software Studio",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": [
-        "Device or other IDs",
-        "Location",
         "App info and performance",
-        "App activity"
+        "Device or other IDs",
+        "App activity",
+        "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.emmx": {
     "name": "Microsoft Edge",
     "developer": "Microsoft Corporation",
     "policyUrl": "https://go.microsoft.com/fwlink/?LinkId=521839",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Photos and videos",
-        "Financial info",
         "Audio",
-        "Web browsing",
-        "Contacts",
+        "Files and docs",
         "App info and performance",
-        "Personal info",
         "App activity",
-        "Files and docs"
+        "Contacts",
+        "Photos and videos",
+        "Device or other IDs",
+        "Personal info",
+        "Web browsing",
+        "Financial info"
       ],
       "shared": [
         "Location",
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.office.excel": {
     "name": "Microsoft Excel: Spreadsheets",
     "developer": "Microsoft Corporation",
     "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Files and docs",
-        "Personal info",
-        "App activity",
-        "Financial info",
         "Device or other IDs",
-        "App info and performance",
+        "Files and docs",
+        "App activity",
         "Photos and videos",
-        "Location"
+        "Location",
+        "Financial info",
+        "Personal info",
+        "App info and performance"
       ],
       "shared": [
         "Device or other IDs",
         "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "org.mozilla.firefox": {
     "name": "Firefox Fast & Private Browser",
     "developer": "Mozilla",
     "policyUrl": "https://www.mozilla.org/privacy/firefox/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
-        "App activity",
-        "Device or other IDs",
         "Location",
-        "Personal info"
+        "Device or other IDs",
+        "App activity",
+        "Personal info",
+        "App info and performance"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.app.watchmanager": {
     "name": "Galaxy Wearable",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.fate.gardenAi2": {
     "name": "Garden AI - Landscape Design",
     "developer": "FATE YAZILIM VE TEKNOLOJI LIMITED SIRKETI",
     "policyUrl": "https://www.fate.tech/privacypolicyterms",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
         "App activity",
-        "Personal info"
+        "Personal info",
+        "Device or other IDs"
       ],
       "shared": [
         "Photos and videos"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.videos": {
     "name": "Google TV",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Messages",
-        "Contacts",
         "Photos and videos",
-        "Personal info",
-        "Device or other IDs",
         "App info and performance",
-        "App activity"
+        "Contacts",
+        "App activity",
+        "Device or other IDs",
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.walletnfcrel": {
     "name": "Google Wallet",
     "developer": "Google LLC",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
-        "Photos and videos",
-        "Financial info",
-        "Location",
         "App info and performance",
-        "Device or other IDs",
-        "Messages",
-        "Contacts",
-        "App activity",
+        "Personal info",
         "Files and docs",
-        "Health and fitness"
+        "Photos and videos",
+        "Device or other IDs",
+        "Location",
+        "Messages",
+        "Health and fitness",
+        "Financial info",
+        "App activity",
+        "Contacts"
       ],
       "shared": [
-        "Personal info",
-        "Financial info",
         "App info and performance",
-        "Device or other IDs"
+        "Personal info",
+        "Device or other IDs",
+        "Financial info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "ai.x.grok": {
     "name": "Grok",
     "developer": "SpaceXAI",
     "policyUrl": "https://x.ai/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "Device or other IDs",
-        "Personal info",
+        "Files and docs",
         "App info and performance",
-        "Photos and videos",
         "App activity",
-        "Files and docs"
+        "Location",
+        "Personal info",
+        "Photos and videos",
+        "Device or other IDs"
       ],
       "shared": [
-        "Device or other IDs",
         "App info and performance",
+        "App activity",
         "Photos and videos",
-        "App activity"
+        "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.checkitt": {
     "name": "Ground News",
     "developer": "Snapwise Inc.(dba Ground News)",
     "policyUrl": "https://ground.news/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "Device or other IDs",
-        "App activity",
         "App info and performance",
-        "Personal info"
+        "Personal info",
+        "App activity",
+        "Device or other IDs",
+        "Location"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.thehomedepot": {
     "name": "The Home Depot",
     "developer": "The Home Depot, Inc",
     "policyUrl": "https://www.homedepot.com/privacy/privacy-and-security-statement",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Messages",
-        "App activity",
-        "Personal info",
         "Photos and videos",
+        "Messages",
         "Location",
         "App info and performance",
+        "Financial info",
+        "Personal info",
+        "Device or other IDs",
         "Audio",
-        "Financial info"
+        "App activity"
       ],
       "shared": [
-        "Device or other IDs",
-        "Messages",
-        "App activity",
-        "Personal info",
         "Photos and videos",
+        "Messages",
         "Location",
         "App info and performance",
+        "Financial info",
+        "Personal info",
+        "Device or other IDs",
         "Audio",
-        "Financial info"
+        "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.kwikset.blewifi": {
     "name": "Kwikset",
     "developer": "ASSA ABLOY Americas Residential Inc.",
     "policyUrl": "https://www.privacy.assaabloydss.com/en/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
+        "Photos and videos",
         "Personal info",
         "App info and performance",
-        "Photos and videos"
+        "Location"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.loves.finder": {
     "name": "Love's Rewards",
     "developer": "Love's Travel Stops and Country Stores, Inc.",
     "policyUrl": "https://www.loves.com/en/terms-and-privacy-app",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Personal info",
+        "App info and performance",
+        "Messages",
         "App activity",
         "Location",
-        "Financial info",
-        "App info and performance",
-        "Messages"
+        "Device or other IDs",
+        "Personal info",
+        "Financial info"
       ],
       "shared": [
-        "Device or other IDs",
-        "Personal info",
         "App activity",
         "Location",
+        "Device or other IDs",
+        "Personal info",
         "Financial info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.lowes.android": {
     "name": "Lowe's",
     "developer": "Lowe's Companies, Inc.",
     "policyUrl": "https://www.lowes.com/l/privacy-and-security-statement.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Device or other IDs",
-        "App info and performance",
         "Financial info",
-        "App activity",
-        "Personal info",
-        "Messages",
         "Location",
+        "App activity",
+        "Photos and videos",
+        "App info and performance",
+        "Personal info",
         "Web browsing",
-        "Photos and videos"
+        "Messages"
       ],
       "shared": [
         "Device or other IDs",
@@ -1334,40 +1682,52 @@
         "App activity",
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.office.officehubrow": {
     "name": "Microsoft Copilot",
     "developer": "Microsoft Corporation",
     "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Device or other IDs",
-        "Photos and videos",
-        "Financial info",
         "Audio",
-        "Location",
+        "Financial info",
         "App info and performance",
         "Personal info",
+        "Location",
         "App activity",
-        "Files and docs"
+        "Files and docs",
+        "Photos and videos"
       ],
       "shared": [
         "Device or other IDs",
         "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.att.myWireless": {
     "name": "AT&T",
     "developer": "AT&T Services, Inc.",
     "policyUrl": "http://www.att.com/privacypolicy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Location"
@@ -1375,38 +1735,50 @@
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.anonyome.mysudo": {
     "name": "MySudo - Identity Protection",
     "developer": "Anonyome Labs, Inc",
     "policyUrl": "https://anonyome.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
         "Financial info",
-        "App activity",
-        "App info and performance"
+        "App info and performance",
+        "Personal info",
+        "App activity"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.navyfederal.android": {
     "name": "Navy Federal Credit Union",
     "developer": "Navy Federal",
     "policyUrl": "https://www.navyfederal.org/policy/privacy.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "App info and performance",
-        "Personal info",
         "App activity",
         "Financial info",
+        "Personal info",
         "Device or other IDs"
       ],
       "shared": [
@@ -1414,311 +1786,407 @@
         "Financial info",
         "Contacts"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.nooriolife.app": {
     "name": "Noorio",
     "developer": "Noorio",
     "policyUrl": "https://www.nooriolife.com/policies/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
-        "Messages",
         "App info and performance",
+        "Photos and videos",
         "Device or other IDs",
-        "Audio"
+        "Audio",
+        "Messages"
       ],
       "shared": [
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.nordpass.android.app.password.manager": {
     "name": "NordPass Password Manager",
     "developer": "Nord Security",
     "policyUrl": "https://nordpass.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "Personal info",
         "App activity",
         "App info and performance",
-        "Financial info",
-        "Personal info"
+        "Financial info"
       ],
       "shared": [
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.okta.android.auth": {
     "name": "Okta Verify",
     "developer": "Okta Inc.",
     "policyUrl": "https://okta.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
+        "App info and performance",
         "Personal info",
-        "App activity",
         "Device or other IDs",
-        "App info and performance"
+        "App activity"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "cn.danatech.xingseus": {
     "name": "PictureThis - Plant Identifier",
     "developer": "Glority Global Group Ltd.",
     "policyUrl": "https://api-java.picturethisai.com/static/privacy_policy.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "App info and performance",
-        "App activity",
-        "Personal info",
-        "Device or other IDs",
         "Photos and videos",
-        "Financial info"
+        "App activity",
+        "Financial info",
+        "Personal info",
+        "Device or other IDs"
       ],
       "shared": [
         "App info and performance",
         "App activity",
+        "Financial info",
         "Personal info",
-        "Device or other IDs",
-        "Financial info"
+        "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "org.plantnet": {
     "name": "PlantNet Plant Identification",
     "developer": "PlantNet",
     "policyUrl": "https://api.plantnet.org/views/terms_of_use",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
         "Personal info",
-        "Location"
+        "Location",
+        "Photos and videos"
       ],
       "shared": [
         "Photos and videos"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.hughes.epo": {
     "name": "POWER WATCHDOG Bluetooth ONLY",
     "developer": "Hughes Autoformers LLC",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "me.proton.android.drive": {
     "name": "Proton Drive: Cloud Storage",
     "developer": "Proton AG",
     "policyUrl": "https://proton.me/legal/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Personal info",
-        "App info and performance",
         "App activity",
+        "App info and performance",
         "Financial info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.move.realtor": {
     "name": "Realtor.com Real Estate & Rent",
     "developer": "realtor.com®",
     "policyUrl": "https://www.realtor.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
-        "Location",
-        "App activity",
-        "Messages",
         "Device or other IDs",
-        "Financial info",
-        "App info and performance"
+        "Location",
+        "Messages",
+        "App activity",
+        "App info and performance",
+        "Personal info",
+        "Financial info"
       ],
       "shared": [
-        "Personal info",
+        "Device or other IDs",
         "Location",
         "App activity",
-        "Device or other IDs",
-        "Financial info",
-        "App info and performance"
+        "App info and performance",
+        "Personal info",
+        "Financial info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.redfin.android": {
     "name": "Redfin: Buy, Sell & Rent Homes",
     "developer": "Redfin",
     "policyUrl": "https://www.redfin.com/about/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "Photos and videos",
         "App info and performance",
+        "Photos and videos",
         "App activity",
+        "Device or other IDs",
         "Personal info"
       ],
       "shared": [
-        "Device or other IDs",
         "App activity",
+        "Device or other IDs",
         "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.redpocket": {
     "name": "RedPocket",
     "developer": "Red Pocket Inc.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.rutters.finder": {
     "name": "Rutter’s",
     "developer": "Rutter's",
     "policyUrl": "https://www.rutters.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Device or other IDs",
-        "Financial info",
-        "App info and performance",
         "Personal info",
         "App activity",
         "Messages",
+        "Financial info",
+        "App info and performance",
         "Location"
       ],
       "shared": [
         "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.sec.android.app.shealth": {
     "name": "Samsung Health",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": "https://www.samsunghealth.com/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
         "Location",
-        "Contacts",
-        "Personal info",
         "Device or other IDs",
+        "App activity",
+        "Contacts",
+        "Photos and videos",
+        "App info and performance",
         "Files and docs",
         "Audio",
-        "Health and fitness",
-        "App info and performance",
-        "App activity"
+        "Personal info",
+        "Health and fitness"
       ],
       "shared": [
         "Location",
-        "Personal info",
         "Device or other IDs",
+        "Personal info",
         "Health and fitness"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.voc": {
     "name": "Samsung Members",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": "https://terms.samsungconsent.com/j5p7ll8g33/PDP/13.5/KOR/KOR_kor.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
-        "Audio",
-        "Photos and videos",
         "App activity",
-        "Device or other IDs"
+        "Audio",
+        "Device or other IDs",
+        "Personal info",
+        "Photos and videos"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.app.notes": {
     "name": "Samsung Notes",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "onxmaps.offroad": {
     "name": "onX Offroad: Trail Maps & GPS",
     "developer": "onXmaps",
     "policyUrl": "https://www.onxmaps.com/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
         "App info and performance",
         "Personal info",
-        "Messages",
         "Photos and videos",
+        "Device or other IDs",
         "App activity",
         "Financial info",
-        "Device or other IDs"
+        "Location",
+        "Messages"
       ],
       "shared": [
-        "Location",
         "App info and performance",
         "Personal info",
+        "Device or other IDs",
         "App activity",
-        "Device or other IDs"
+        "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.tvplus": {
     "name": "Samsung TV Plus - TV & Movies",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": "https://www.samsung.com/sec/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "App activity",
@@ -1727,557 +2195,731 @@
       "shared": [
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.spay": {
     "name": "Samsung Wallet (Samsung Pay)",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.oneconnect": {
     "name": "SmartThings",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": "https://www.smartthings.com/privacypolicy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
+        "Device or other IDs",
         "App activity",
-        "Photos and videos",
-        "Location",
-        "Personal info",
+        "App info and performance",
         "Audio",
-        "Device or other IDs"
+        "Photos and videos",
+        "Personal info",
+        "Location"
       ],
       "shared": [
-        "Personal info",
-        "Device or other IDs"
+        "Device or other IDs",
+        "Personal info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "org.zwanoo.android.speedtest": {
     "name": "Speedtest by Ookla",
     "developer": "Ookla",
     "policyUrl": "https://www.speedtest.net/about/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "App activity",
-        "App info and performance",
         "Financial info",
+        "Device or other IDs",
+        "App info and performance",
+        "App activity",
         "Personal info",
         "Location"
       ],
       "shared": [
         "Device or other IDs",
-        "App activity",
         "App info and performance",
+        "App activity",
         "Personal info",
         "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.target.ui": {
     "name": "Target: Shop. Style. Save.",
     "developer": "Target Corporation",
     "policyUrl": "http://www.target.com/c/target-privacy-policy/-/N-4sr7p",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "App info and performance",
         "Personal info",
         "App activity",
         "Location",
-        "Financial info",
-        "Device or other IDs"
+        "Device or other IDs",
+        "Financial info"
       ],
       "shared": [
         "Personal info",
         "App activity",
         "Financial info"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.einnovation.temu": {
     "name": "Temu: Shop Like a Billionaire",
     "developer": "Temu",
     "policyUrl": "https://www.temu.com/privacy-and-cookie-policy.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
-        "Location",
+        "Device or other IDs",
+        "App info and performance",
         "Financial info",
         "App activity",
-        "Photos and videos",
-        "Device or other IDs",
-        "App info and performance"
+        "Personal info",
+        "Location",
+        "Photos and videos"
       ],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.tplink.tether": {
     "name": "TP-Link Tether",
     "developer": "TP-LINK SYSTEMS INC.",
     "policyUrl": "https://privacy.tp-link.com/app/Tether/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
+        "Personal info",
+        "App info and performance",
         "App activity",
         "Device or other IDs",
-        "App info and performance",
-        "Personal info"
+        "Photos and videos"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.weather.Weather": {
     "name": "The Weather Channel - Radar",
     "developer": "The Weather Channel",
     "policyUrl": "https://weather.com/en-US/twc/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
-        "Personal info",
         "Device or other IDs",
+        "Personal info",
+        "App activity",
         "App info and performance",
-        "App activity"
+        "Location"
       ],
       "shared": [
-        "Location",
-        "Personal info",
         "Device or other IDs",
+        "Personal info",
+        "App activity",
         "App info and performance",
-        "App activity"
+        "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.translate": {
     "name": "Google Translate",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/policies/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
-        "App info and performance",
-        "Location",
+        "Contacts",
+        "App activity",
         "Device or other IDs",
         "Photos and videos",
-        "App activity",
-        "Contacts"
+        "Location",
+        "App info and performance",
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.usaa.mobile.android.usaa": {
     "name": "USAA Mobile",
     "developer": "USAA",
     "policyUrl": "https://www.usaa.com/privacy/promise",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
-        "App info and performance",
-        "Financial info",
-        "App activity",
-        "Personal info",
-        "Contacts",
         "Files and docs",
-        "Location",
+        "App info and performance",
         "Audio",
-        "Photos and videos"
+        "App activity",
+        "Photos and videos",
+        "Financial info",
+        "Location",
+        "Contacts",
+        "Device or other IDs",
+        "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.victronenergy.victronconnect": {
     "name": "VictronConnect",
     "developer": "Victron Energy BV",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.sec.android.app.voicenote": {
     "name": "Voice Recorder",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.walmart.android": {
     "name": "Walmart: Shopping & Savings",
     "developer": "Walmart",
     "policyUrl": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice/walmart-app-privacy-notice-quick-links",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App activity",
-        "Financial info",
         "Location",
-        "Device or other IDs",
         "App info and performance",
         "Health and fitness",
-        "Personal info"
+        "Financial info",
+        "App activity",
+        "Personal info",
+        "Device or other IDs"
       ],
       "shared": [
-        "Device or other IDs",
-        "Personal info"
+        "Personal info",
+        "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "org.watchduty.app": {
     "name": "Watch Duty: Wildfire & Floods",
     "developer": "Watch Duty",
     "policyUrl": "https://www.watchduty.org/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Personal info",
         "Location"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.aviatorassistant.weather": {
     "name": "Weather Scope NOAA Live Radar",
     "developer": "Aviator Assistant",
     "policyUrl": "https://aviatorassistant.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
         "Location",
         "App activity",
+        "Device or other IDs",
         "App info and performance"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.microsoft.office.word": {
     "name": "Microsoft Word: Edit Documents",
     "developer": "Microsoft Corporation",
     "policyUrl": "http://go.microsoft.com/fwlink/?LinkID=507380",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Audio",
-        "Photos and videos",
-        "Personal info",
-        "App info and performance",
-        "App activity",
-        "Financial info",
         "Device or other IDs",
+        "Photos and videos",
+        "App activity",
+        "Files and docs",
+        "App info and performance",
+        "Financial info",
+        "Personal info",
         "Location",
-        "Files and docs"
+        "Audio"
       ],
       "shared": [
         "Device or other IDs",
         "Location"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.google.android.apps.youtube.music": {
     "name": "YouTube Music",
     "developer": "Google LLC",
     "policyUrl": "http://www.google.com/intl/en/policies/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Contacts",
-        "Messages",
-        "Device or other IDs",
-        "App activity",
-        "Photos and videos",
         "App info and performance",
         "Audio",
+        "App activity",
+        "Photos and videos",
+        "Device or other IDs",
         "Financial info",
+        "Messages",
         "Personal info"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": true
     }
   },
   "com.bible.alarm.clock": {
     "name": "Bible Alarm: Holy Bible Study",
     "developer": "Bíblia Offline",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": [
-        "Device or other IDs",
         "App info and performance",
         "Personal info",
+        "Device or other IDs",
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.DeltaDefense.playstore.uscca": {
     "name": "USCCA Concealed Carry App",
     "developer": "The USCCA",
     "policyUrl": "https://www.usconcealedcarry.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
         "App info and performance",
-        "Personal info",
-        "App activity"
+        "Device or other IDs",
+        "App activity",
+        "Personal info"
       ],
       "shared": [
         "Device or other IDs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.cyberinellc.sj": {
     "name": "JAMR: Call Screen & Block",
     "developer": "CYBERINE",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.samsung.android.calendar": {
     "name": "Samsung Calendar",
     "developer": "Samsung Electronics Co., Ltd.",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "io.pushpay.airbornemartinsburg": {
     "name": "Airborne Church",
     "developer": "Airborne Church Inc.",
     "policyUrl": "https://pushpay.com/legal-center/privacy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Photos and videos",
-        "App info and performance",
-        "Personal info",
-        "Files and docs",
-        "App activity",
+        "Audio",
         "Messages",
+        "Personal info",
+        "App info and performance",
+        "Photos and videos",
+        "Files and docs",
         "Device or other IDs",
-        "Audio"
+        "App activity"
       ],
       "shared": [
-        "Photos and videos",
-        "App info and performance",
-        "Personal info",
-        "Files and docs",
+        "Audio",
         "Messages",
-        "Audio"
+        "Personal info",
+        "App info and performance",
+        "Photos and videos",
+        "Files and docs"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.ministrybrands.f1.go": {
     "name": "FellowshipOne Go",
     "developer": "Ministry Brands",
     "policyUrl": "http://www.fellowshipone.com/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Device or other IDs",
         "App activity",
-        "Files and docs",
         "App info and performance",
-        "Financial info",
+        "Device or other IDs",
         "Photos and videos",
-        "Personal info"
+        "Financial info",
+        "Personal info",
+        "Files and docs"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.earthglobemap.livesatellite.gps": {
     "name": "Satellite View - Maps - Radar",
     "developer": "Mortys Games",
     "policyUrl": "https://www.mortysgames.com/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "App info and performance",
+        "Device or other IDs",
         "Location",
-        "App activity",
-        "Device or other IDs"
+        "App info and performance",
+        "App activity"
       ],
       "shared": [
-        "App info and performance",
+        "Device or other IDs",
         "Location",
-        "App activity",
-        "Device or other IDs"
+        "App info and performance",
+        "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.growtons.call.blocker.block.spam.calls.blacklist.unknown.calls.block.robo.calls": {
     "name": "Unknown Call & Contact Blocker",
     "developer": "Growtons Tech",
     "policyUrl": null,
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": null,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.starlink.mobile": {
     "name": "Starlink",
     "developer": "Space Exploration Technologies Corp.",
     "policyUrl": "https://www.starlink.com/legal/privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Personal info",
-        "Files and docs",
-        "App activity",
-        "Device or other IDs",
-        "App info and performance",
         "Location",
+        "Messages",
+        "App activity",
+        "Files and docs",
         "Photos and videos",
-        "Messages"
+        "Device or other IDs",
+        "App info and performance"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "weather.forecast.channel.live": {
     "name": "Weather Forecast & Live Radar",
     "developer": "Weather 365 Days",
     "policyUrl": "https://weather365d.com/weatherforecast/privacy-policy/",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Location",
         "App activity",
-        "Device or other IDs"
+        "Device or other IDs",
+        "Location"
       ],
       "shared": [
         "App info and performance"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.weather.daily.local.live": {
     "name": "Weather Forecast - Live Alerts",
     "developer": "RODRIGUEZCASTILLO FABIOLA",
     "policyUrl": "https://sites.google.com/view/wf2-privacy-policy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Personal info",
         "Location",
-        "Device or other IDs",
         "App info and performance",
+        "Device or other IDs",
         "Financial info",
+        "Personal info",
         "App activity"
       ],
       "shared": [
-        "Device or other IDs",
         "App info and performance",
+        "Device or other IDs",
         "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": null,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.whatnot_mobile": {
     "name": "Whatnot: Shop, Sell, Connect",
     "developer": "Whatnot Inc.",
     "policyUrl": "https://www.whatnot.com/privacy",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
-        "Contacts",
-        "Personal info",
-        "Financial info",
-        "Audio",
+        "Location",
         "App info and performance",
         "Photos and videos",
-        "App activity",
-        "Messages",
         "Device or other IDs",
-        "Location"
+        "Audio",
+        "Contacts",
+        "Messages",
+        "Financial info",
+        "Personal info",
+        "App activity"
       ],
       "shared": [
-        "Personal info",
-        "Financial info",
-        "Audio",
         "App info and performance",
         "Photos and videos",
-        "App activity",
-        "Device or other IDs"
+        "Device or other IDs",
+        "Audio",
+        "Financial info",
+        "Personal info",
+        "App activity"
       ]
+    },
+    "security": {
+      "encryptedInTransit": true,
+      "deletionRequest": true,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   },
   "com.DeltaDefense.ReciprocityByUSCCA": {
@@ -2294,14 +2936,20 @@
     "name": "URFitAP - Valley",
     "developer": "Dev@Link-N-Tech",
     "policyUrl": "https://apps.link-n-tech.com/legal/vws/privacy.html",
-    "readAt": "2026-10-17",
+    "readAt": "2026-10-19",
     "versionCode": null,
-    "source": "Play Store Data safety page, read 2026-10-17 in the browser",
+    "source": "Play Store Data safety page, read 2026-10-19 in the browser",
     "declared": {
       "collected": [
         "Device or other IDs"
       ],
       "shared": []
+    },
+    "security": {
+      "encryptedInTransit": false,
+      "deletionRequest": false,
+      "familiesPolicy": false,
+      "independentReview": false
     }
   }
 }
