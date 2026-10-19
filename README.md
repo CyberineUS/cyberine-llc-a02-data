@@ -61,6 +61,12 @@ their privacy policies are. The app compares each installed app's permissions wi
   or updated after that date counts as "not on file for this version" until the next read.
 - `dataTypesByGroup` maps each Android permission group the app reads to the Play Store data types
   that would cover it. It lives in the file so the mapping can change without an app update.
+- `tierByGroup` gives each permission group its risk tier (1 highest, 3 lowest) for the app's
+  declaration-risk label. Same reason: tunable without an app update.
+- `security`, per app, holds the four Security practices statements from the page:
+  `encryptedInTransit` and `deletionRequest` (true, false, or null when the page did not say),
+  `familiesPolicy` and `independentReview`. Absent or null means the page was read before this
+  block existed; the app then says nothing about them.
 - Data type names are the Play Store's own: Location, Personal info, Financial info, Health and
   fitness, Messages, Photos and videos, Audio, Files and docs, Calendar, Contacts, App activity,
   Web browsing, App info and performance, Device or other IDs.
