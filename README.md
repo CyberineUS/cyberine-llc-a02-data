@@ -1,95 +1,29 @@
-# a02 declarations file
+# a02 detection model
 
 Copyright (c) 2026 CYBERINE LLC. All rights reserved.
 
-This repository publishes one public, signed data file for the a02 privacy monitoring app:
-what other apps declare about their data on the Play Store (the Data safety section) and where
-their privacy policies are. The app compares each installed app's permissions with its entry here.
+This repository publishes one public, signed file for the a02 privacy monitoring app: the
+on-device model that estimates which app most likely used the microphone or camera.
 
 ## The promise this repository keeps
 
-- **Nothing from the phone.** The app downloads `declarations.json` and `declarations.json.sig`
-  only when the user presses Update. The request carries no identifier and nothing about the phone.
-  Every user receives the same file, so the download reveals nothing about which apps are installed.
+- **Nothing from the phone.** The app downloads `model.json` and `model.json.sig` only when the
+  user taps *Update detection model*. The request carries no identifier and nothing about the
+  phone. Every user receives the same file.
 - **No CYBERINE server.** The file is served by GitHub. CYBERINE operates nothing that the phone
   talks to.
-- **Readable by anyone.** The file, its history and the script that builds it are public, so
-  anyone can check what the app compares against.
+- **Readable by anyone.** The file and its history are public, so anyone can check what the app
+  downloads.
 - **Signed.** The app checks the signature against the public key it ships with before using a
-  downloaded file. A file that does not verify is discarded.
+  downloaded file. A file that does not verify is discarded. A file with a version equal to or
+  lower than the one in use, or an unknown feature set, is refused.
 
 ## Files
 
 | Path | What it is |
 |---|---|
-| `declarations.json` | The data file. Format described below and in `schema/declarations.schema.json` |
-| `declarations.json.sig` | Signature over the exact bytes of `declarations.json` (ECDSA P-256, SHA-256, base64) |
-| `keys/declarations-public.pem` | The public key the app ships with. The private key is never in this repository |
-| `tools/build_declarations.py` | Builds `declarations.json` from `sources/` |
-| `tools/sign.py`, `tools/verify.py` | Sign and verify the file |
-| `tools/make_key.py` | Makes a new key pair. Run once, on the signing machine, by the key holder |
-| `sources/packages.txt` | The apps the file covers, one package name per line |
-| `sources/overrides.json` | Declarations read from each app's store page, one page at a time in a browser, until an automatic source is settled |
-| `tools/read_datasafety_page.js` | Pasted into the browser on a Data safety page, returns that app's entry as JSON |
+| `model.json` | The model: `format`, `version`, `date`, `features`, `classes`, `weights` |
+| `model.json.sig` | Signature over the exact bytes of `model.json` (ECDSA P-256, SHA-256, base64) |
 
-## Format of `declarations.json`
-
-```json
-{
-  "format": 1,
-  "generatedAt": "2026-10-17T23:00:00Z",
-  "sdk": 37,
-  "source": { "declarations": "manual", "note": "..." },
-  "dataTypesByGroup": { "LOCATION": ["Location"], "MICROPHONE": ["Audio"], "...": [] },
-  "apps": {
-    "com.example.app": {
-      "name": "Example",
-      "developer": "Example Ltd",
-      "policyUrl": "https://example.com/privacy",
-      "readAt": "2026-10-17",
-      "versionCode": 12345,
-      "declared": {
-        "collected": ["Location", "Personal info"],
-        "shared": ["Device or other IDs"]
-      }
-    }
-  }
-}
-```
-
-- `readAt` is the date the entry was read from the store. On the phone, an app that was installed
-  or updated after that date counts as "not on file for this version" until the next read.
-- `dataTypesByGroup` maps each Android permission group the app reads to the Play Store data types
-  that would cover it. It lives in the file so the mapping can change without an app update.
-- `tierByGroup` gives each permission group its risk tier (1 highest, 3 lowest) for the app's
-  declaration-risk label. Same reason: tunable without an app update.
-- `security`, per app, holds the four Security practices statements from the page:
-  `encryptedInTransit` and `deletionRequest` (true, false, or null when the page did not say),
-  `familiesPolicy` and `independentReview`. Absent or null means the page was read before this
-  block existed; the app then says nothing about them.
-- Data type names are the Play Store's own: Location, Personal info, Financial info, Health and
-  fitness, Messages, Photos and videos, Audio, Files and docs, Calendar, Contacts, App activity,
-  Web browsing, App info and performance, Device or other IDs.
-- An app with no entry is "not on file". An app whose entry has `"declared": null` was looked up
-  and had no Data safety section. `"listing": "removed"` means the Play Store page no longer
-  exists (the app was withdrawn or taken down after it was installed).
-
-## Building and publishing
-
-```
-python tools/build_declarations.py            # writes declarations.json
-python tools/sign.py --key <private key>      # writes declarations.json.sig
-python tools/verify.py                        # checks the pair against keys/declarations-public.pem
-git commit -am "Declarations as of <date>" && git push
-```
-
-The app fetches the raw files from the `main` branch.
-
-## Open
-
-- **Source for the declarations.** Reading Data safety sections from Play Store pages with a crawler
-  is against Google's terms of service. Until that is settled with counsel, or a licensed dataset
-  is used, entries come from a person's browser, one page at a time, with
-  `tools/read_datasafety_page.js` turning the page into the JSON entry.
-- **Key holder.** Who holds the private key and where it is kept.
-- **Licence for this data.**
+The private signing key is never in this repository. The app ships with a copy of every model
+it needs; this download only brings a newer one between app updates.
