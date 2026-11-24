@@ -1,1 +1,1 @@
-{"format": 1, "version": 0, "date": "2026-11-04", "features": "none", "classes": [], "weights": {}}
+{"format": 1, "version": 1, "date": "2026-11-24", "label": "v1.1-20261124-0730", "features": "none", "classes": [], "weights": {}, "endpoints": {"speech": ["speechs3proto2-pa.googleapis.com"], "assistants": [{"host": "robinfrontend-pa.googleapis.com", "name": "Gemini, Google's assistant"}]}}
